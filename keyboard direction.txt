@@ -1,0 +1,2 @@
+'L': Pressing 'L' produces the layers of the burger
+'S': Pressing 'S' serves the burger from counter to table only if all the layers of the burger are created!
